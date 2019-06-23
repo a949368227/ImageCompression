@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageCompression</string>
+
+    <string name="comperssionTitle">选择压缩方式</string>
+    <string name="qualityComperssion">50%质量压缩（不适用通过本应用拍摄的照片）</string>
+    <string name="openCvComperssion">长宽50%尺寸压缩（基于openCV）</string>
+    <string name="_openCvComperssion">自定义参数尺寸压缩（基于openCV）</string>
+    <string name="_qualityComperssion">自定义参数质量压缩（不适用通过本应用拍摄的照片）</string>
+</resources>
